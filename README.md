@@ -12,6 +12,7 @@ This project builds on the OCSF framework and Phase 1 of the SimpleChat applicat
    - click Java Build Path
    - click on projects
    - check in Classpath if OCSF is present
+   - if OCSF is not present, repeat setup instruction
 
 #Execution instruction
 1. Click on 'run' on the top navigation bar
@@ -34,5 +35,7 @@ This project builds on the OCSF framework and Phase 1 of the SimpleChat applicat
 
 
 #Credits:
+
 This assignment used the phase 1 of the simpleChat application provided by Professor Hussein Al Osman: https://github.com/uOttawaSEG/simpleChat.git
+
 This assignment used the OCSF framework provide by Professor Hussein Al Osman: https://github.com/husseinalosman/OCSF.git
