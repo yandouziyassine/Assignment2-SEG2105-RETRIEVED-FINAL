@@ -1,4 +1,4 @@
-# Assignment2-SEG2105-RETRIEVED-FINAL
+# Assignment2-SEG2105-FINAL
 
 This project builds on the OCSF framework and Phase 1 of the SimpleChat application. The goal was to implement new client and server methods to fill all the specifications of Assignment 2 . 
 
