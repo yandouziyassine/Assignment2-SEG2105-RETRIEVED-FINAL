@@ -18,7 +18,7 @@ This project builds on the OCSF framework and Phase 1 of the SimpleChat applicat
 1. Click on 'run' on the top navigation bar
 2. click on run configuration
 3. click on EchoServer
-   -DEFAULT_PORT is setup to 5555
+   - DEFAULT_PORT is setup to 5555
    - To change the default port, click on arguments and add the wanted port (Port number NEEDS to be an integer)
    - click on run
    - Open server console in Window/Show View/Console (or Alt+Shift+Q, C)
